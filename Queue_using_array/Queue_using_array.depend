@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1732712077 source:d:\first_dma\ds\day2-ds-stack&queue\queue_using_array\main.cpp
+	<iostream>
+	"CircularQueue .h"
+
+1732712101 d:\first_dma\ds\day2-ds-stack&queue\queue_using_array\include\circularqueue .h
+	<iostream>
+
+1732712117 source:d:\first_dma\ds\day2-ds-stack&queue\queue_using_array\src\circularqueue .cpp
+	<iostream>
+

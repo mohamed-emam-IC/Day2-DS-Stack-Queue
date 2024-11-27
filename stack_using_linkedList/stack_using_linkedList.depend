@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1732708454 source:d:\first_dma\c++ass\stack_using_linkedlist\main.cpp
+	<iostream>
+	"linkedList.h"
+
+1732711584 d:\first_dma\c++ass\stack_using_linkedlist\include\linkedlist.h
+	<iostream>
+
+1732711395 d:\first_dma\c++ass\stack_using_linkedlist\include\node.h
+
+1732710168 source:d:\first_dma\c++ass\stack_using_linkedlist\src\linkedlist.cpp
+	<iostream>
+
+1732711406 source:d:\first_dma\c++ass\stack_using_linkedlist\src\node.cpp
+
